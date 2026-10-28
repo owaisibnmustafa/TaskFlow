@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Mobile-First Task Manager",
+  "description": "A clean, mobile-first responsive task management application built with React, TypeScript, and localStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
